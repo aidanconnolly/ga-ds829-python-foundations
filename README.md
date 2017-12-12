@@ -8,7 +8,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two part lesson, outlined below | [Here](python-dtypes-controlflow.ipynb) |
+| Lesson | Two part lesson, outlined below | [Part One](python-dtypes.ipynb) [Part Two](python-controlflow.ipynb)|
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/python-dtypes-controlflow-solution.ipynb) |
 | Datasets | Coffee Preferences Data | [Here](./assets/datasets/coffee-preferences.csv) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
