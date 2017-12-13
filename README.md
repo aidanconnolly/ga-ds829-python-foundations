@@ -8,9 +8,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two part lesson, outlined below | [Here](python-dtypes-controlflow.ipynb) |
+| Lesson | Two part lesson, outlined below | [Part One](python-dtypes.ipynb) [Part Two](python-controlflow.ipynb)|
 | Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/python-dtypes-controlflow-solution.ipynb) |
-| Datasets | Coffee Preferences Data | [Here](./assets/datasets/coffee-preferences.csv) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
 
@@ -34,8 +33,7 @@ This material may be challenging to get through if students are new to programmi
 - Apply `if, else` conditional statements.
 - Create functions to perform repetitive actions.
 - Demonstrate error-handling using `try, except` statements.
-- Combine control flow and conditional statements to solve the classic "FizzBuzz" code challenge.
-- Use `Python` control flow and functions to help us parse, clean, edit and analyze the Coffee Preferences dataset.
+- Use `Python` control flow and functions to help us parse, clean, edit and analyze datasets.
 
 ---
 
