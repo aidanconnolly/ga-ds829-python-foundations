@@ -13,11 +13,11 @@
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 <!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
 
-This material may be challenging to get through if students are new to programming. Expect students to struggle with for loops and functions — you likely will have to do these exercises as a code-along. If time is left over, there is practice on the Coffee Preferences data set. If not, students can use it for more practice at home.
 
 ---
 
 ## Learning Objectives
+By the end of this lesson, students will be able to:
 
 ### Part 1: Python Data Types
  
@@ -37,7 +37,16 @@ This material may be challenging to get through if students are new to programmi
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Recall and define common Python data types.
+
+----
+
 ## Lesson Outline
+
+> Instructor Note: This material may be challenging to get through if students are new to programming. Expect students to struggle with for loops and functions — you likely will have to do these exercises as a code-along. If time is left over, there is practice on the Coffee Preferences data set. If not, students can use it for more practice at home.
 
 **Part 1 : Python Data Types** (90 min)
 - Why Python? (5 min)
@@ -62,14 +71,6 @@ This material may be challenging to get through if students are new to programmi
 - Conclusion
 
 ---
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-
-- Recall and define common Python data types.
-
-----
 
 ## Additional Resources
 
