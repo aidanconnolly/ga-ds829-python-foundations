@@ -8,10 +8,17 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Two-part lesson, outlined below | [Part One](python-dtypes.ipynb), [Part Two](python-controlflow.ipynb)|
-| Solution  | Solution code for blanked-out lesson samples | [Here](./solution-code/python-dtypes-controlflow-solution.ipynb) |
+| Lesson | (*Beginner*) Part 1: Data Types | [Part One](./python-dtypes.ipynb) |
+| Lesson | (*Intermediate*) Part 2: Control Flow | [Part Two](./python-controlflow.ipynb)|
+| Practice | Practice: Part 1: Data Types  | [here](./types-lists-dictionaries-review.ipynb)|
+|  | Practice: Part 2: Functions  | [here](./python-functions.ipynb)|
+|  | (*Intermediate, Bonus*) Practice: IMDB Intro Lab  | [here](./python-movies-lab.ipynb)|
+| Solutions  | Sample Solutions for Blanked Out Lesson Demo | [Data Types](./solution-code/python-dtypes-controlflow-solution.ipynb) |
+|   | Sample Solutions: Part 1, Practice | [Practice: Data Types](./types-lists-dictionaries-review-solutions.ipynb) |
+|   | Sample Solutions: Part 2, Practice | [Practice: Functions](./python-functions-solutions.ipynb) |
+|   | Sample Solutions: Bonus Lab | [IMDB Lab](./solution-code/python-movies-lab-solutions.ipynb) |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
-<!--| Extra Materials | Bonus review or practice materials provided by instructors | [Here](./assets/bonus/) |-->
+
 
 
 ---
