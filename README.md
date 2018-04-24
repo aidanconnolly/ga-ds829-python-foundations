@@ -89,3 +89,5 @@ For more information on this topic, check out the following resources:
 - [Python: IF, ELIF, ELSE](https://www.tutorialspoint.com/python/python_if_else.htm)
 - [Python Loops](https://www.tutorialspoint.com/python/python_loops.htm)
 - [Python Control Flow](https://python.swaroopch.com/control_flow.html)
+- [Python Lists](https://medium.com/@GalarnykMichael/python-basics-6-lists-and-list-manipulation-a56be62b1f95)
+- [Python Dictionaries](https://hackernoon.com/python-basics-10-dictionaries-and-dictionary-methods-4e9efa70f5b9)
