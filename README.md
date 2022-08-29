@@ -13,10 +13,10 @@
 | Practice | Practice: Part 1: Data Types  | [here](./types-lists-dictionaries-review.ipynb)|
 |  | Practice: Part 2: Functions  | [here](./python-functions.ipynb)|
 |  | (*Intermediate, Bonus*) Practice: IMDB Intro Lab  | [here](./python-movies-lab.ipynb)|
-| Solutions  | Sample Solutions for Blanked Out Lesson Demo | [Data Types](./solution-code/python-dtypes-controlflow-solution.ipynb) |
-|   | Sample Solutions: Part 1, Practice | [Practice: Data Types](./solution-code/types-lists-dictionaries-review-solutions.ipynb) |
-|   | Sample Solutions: Part 2, Practice | [Practice: Functions](./solution-code/python-functions-solutions.ipynb) |
-|   | Sample Solutions: Bonus Lab | [IMDB Lab](./solution-code/python-movies-lab-solutions.ipynb) |
+| Solutions  | Sample Solutions for Blanked Out Lesson Demo | Data Types |
+|   | Sample Solutions: Part 1, Practice | Practice: Data Types |
+|   | Sample Solutions: Part 2, Practice | Practice: Functions |
+|   | Sample Solutions: Bonus Lab | IMDB Lab |
 | Source Materials | Original files used to create this lesson | [Here](./assets/originals/) |
 
 
@@ -52,8 +52,6 @@ Before this lesson(s), students should already be able to:
 ----
 
 ## Lesson Outline
-
-> Instructor Note: This material may be challenging to get through if students are new to programming. Expect students to struggle with for loops and functions — you likely will have to do these exercises as a code-along. If time is left over, there is practice on the Coffee Preferences data set. If not, students can use it for more practice at home.
 
 **Part 1 : Python Data Types** (90 min)
 - Why Python? (5 min)
